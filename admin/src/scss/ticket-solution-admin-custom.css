@@ -1,0 +1,5 @@
+/* Adding custom css for Product panel */
+.custom_set_stock_2_field, .custom_set_price_2_field {
+    display: none;
+    font-size: 200px;
+  }
